@@ -20,7 +20,7 @@ class Config(object):
     OWNER_ID = (
         "1820298937"
     )  # If you dont know, run the bot and do /id in your private chat with it
-    OWNER_USERNAME = "IloohTele_bot"
+    OWNER_USERNAME = "iloohtechnologyinc"
 
     # RECOMMENDED
     SQLALCHEMY_DATABASE_URI = (
